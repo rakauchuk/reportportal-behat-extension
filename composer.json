@@ -1,0 +1,11 @@
+{
+    "name": "rakauchuk/reportportal-behat-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kirill Rakauchuk",
+            "email": "trw2ngyfmdxnzgu@gmail.com"
+        }
+    ],
+    "require": {}
+}
